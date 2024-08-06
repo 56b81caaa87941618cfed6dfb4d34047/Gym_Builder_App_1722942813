@@ -4,5 +4,6 @@
     "project_description": "an app for building the Gym",
     "creation_time": "2024-08-06 11:13:33.183644",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant, otherworldly landscape with a predominant color scheme of pink and purple hues, creating a dreamy, surreal atmosphere. The style includes sharp, jagged mountain silhouettes and celestial elements with a large planet and smaller moons in the background."
 }
