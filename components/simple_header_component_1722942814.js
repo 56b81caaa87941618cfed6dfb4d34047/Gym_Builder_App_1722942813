@@ -3,11 +3,11 @@
 
 Vue.component("simple_header_component_1722942814", {
     template: `
-    <header id="header-section" style="min-height: 70px" class="w-full">
+    <header id="header-section" style="min-height: 70px"  class="w-full">
         <nav id="nav-bar" class="bg-pink-200 bg-opacity-30 backdrop-filter backdrop-blur-lg border-pink-300 py-2.5 shadow-lg rounded-lg">
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
-                    <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
+                    <img id="logo-image" src="https://makeinfinite-mentat-test.azurewebsites.net/get_image/tmpu9ifdtb7/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                     <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap text-purple-800">FitBuilder: Construct Your Fitness Journey</span>
                 </a>
                 <div id="menu-toggle-button" class="flex items-center lg:order-2">
